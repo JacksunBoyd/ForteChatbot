@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jxnph\\source\\repos\\app.py\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFE8473-DE73-43F3-9AA7-3FA9ACDB3D36}|app.py\\app.py.pyproj|C:\\Users\\jxnph\\source\\repos\\app.py\\app.py\\app.py.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FFE8473-DE73-43F3-9AA7-3FA9ACDB3D36}|app.py\\app.py.pyproj|solutionrelative:app.py\\app.py.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.py.py",
+              "DocumentMoniker": "C:\\Users\\jxnph\\source\\repos\\app.py\\app.py\\app.py.py",
+              "RelativeDocumentMoniker": "app.py\\app.py.py",
+              "ToolTip": "C:\\Users\\jxnph\\source\\repos\\app.py\\app.py\\app.py.py",
+              "RelativeToolTip": "app.py\\app.py.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ7SURBVDhPtZTLaxpRFMaPjk\u002BUtNZXGsSYrJSCVnBVwZaCq1AKoav\u002BK/2T0o3twkUk1EAp3bgpLkXRbor4qtb3jP2\u002By8wQTLJq\u002BsGPO3PnnjPnNSMPqt1u5zAvb8oFnpirkxt3yABbMDRXWzcdPgLPQAkkgRvc53AH1qALrkETTIDtkGsRvANvQBxowAGJpmnMRnRdx5YtRvYLfAYfwVewoxHlBe9NUoDRudxutxYIBLSDgwMNjjU4tTHPhMBTMADfgW45DIO34AXgQYYmiURCstmspNNpWS6X4nK5xDAMWa\u002BZrS0G0wbfwB/L4WPwGjyHkXZ0dCTlcllKpZKcnp4q5/P5XLifTCYlGo0qx4vFgisbxBqyllN2kmLxiYNRxONxyeVyUigUJBQKyWw2k2KxKB6PR5xOp3S7XalUKjIej2W73bL\u002Blv3tLjIaOmVEBDWUfD4v5\u002BfncnZ2pqLOZDLi9XrV2X1ZKXNkXoEsOspGSL/fl06no1afzyfhcFh1ud1uS71el2q1KpPJxEr5B/gCft\u002BKkOKYUDRoNptSq9Wk1\u002BvJaDSSRqOh7lerlRqlfd2ZMiOKRCJyeHgosVhMpU2xZnTk9/sVrOe\u002Bbu3wrTRiM46PjyWVSqmu0pjPmPrJycm9NbQcsg5kh66pug0GAzVv7GwwGFTXw\u002BFQlYEvNEeGtszbsreb4gMvQRZRuDkmrVZLOcbXouaPxldXV3JxcSGXl5cqfdPhBjRADcy5QXnAB8CJt95mIDoD6RoYEwNzaaCmBuprPzfpANrShx2h9ZD3McDPycCYGPjkdKSpowT6dDrVN5sN/xBkBX6CT6AK6Pj//b5u6p9\u002BsA8skb/8/SGCXbqLEQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-06T18:49:01.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
